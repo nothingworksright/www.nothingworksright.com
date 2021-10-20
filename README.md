@@ -1,3 +1,3 @@
-# github-pages-tempate  
+# nothingworksright.com  
 
-🌐 GitHub Pages repository template.  
+🌐 GitHub Pages repository for [nothingworksright.com](https://www.nothingworksright.com).  
